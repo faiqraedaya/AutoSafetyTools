@@ -1,5 +1,5 @@
 # AutoSafetyTools
-## Various automation tools for risk & safety assessments
+ Various automation tools for risk & safety assessments
 
 ## WindRose
 ### Creates and displays wind rose plots from wind data.
